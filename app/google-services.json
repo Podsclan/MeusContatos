@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230522430030",
+    "firebase_url": "https://meuscontatos-pdm-dc159-default-rtdb.firebaseio.com",
+    "project_id": "meuscontatos-pdm-dc159",
+    "storage_bucket": "meuscontatos-pdm-dc159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230522430030:android:6e0e3da01f8a96d8a6d91f",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.scl.ads.s5.pdm.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230522430030-9dfhstl7nm2ciianfgas0f4t2mmfp3ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.scl.ads.s5.pdm.agenda",
+            "certificate_hash": "5b2e62720b6659d947ae0cc6759e88559dff2554"
+          }
+        },
+        {
+          "client_id": "230522430030-pjh629inkn46db1fcee9bpf3ranul3qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GqoiqFgoVLIj-hwAl4RrG0ymoXCihPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230522430030-pjh629inkn46db1fcee9bpf3ranul3qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
